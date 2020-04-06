@@ -1,1 +1,1 @@
-##                         Challenge for Hackaton Covid-19
+##                        <center> Challenge for Hackaton Covid-19</center>
