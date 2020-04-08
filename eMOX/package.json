@@ -1,0 +1,60 @@
+{
+  "name": "eMOX",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.6.1",
+    "@react-native-community/netinfo": "^4.1.4",
+    "accordion-collapse-react-native": "^0.1.9",
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-preset-react-native": "^4.0.0",
+    "firebase": "^5.5.0",
+    "native-base": "^2.13.4",
+    "react": "16.9.0",
+    "react-native": "0.61.0",
+    "react-native-android-location-services-dialog-box": "^2.8.2",
+    "react-native-appstore-version-checker": "^2.7.2",
+    "react-native-calendars": "^1.209.0",
+    "react-native-device-info": "^1.5.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-firebase": "^5.5.6",
+    "react-native-geolocation-service": "^3.1.0",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-masked-text": "^1.9.1",
+    "react-native-modal": "^6.5.0",
+    "react-native-onesignal": "^3.5.0",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-responsive-screen": "^1.1.10",
+    "react-native-smart-splash-screen": "^2.3.5",
+    "react-native-spinner-button": "^1.0.1",
+    "react-native-sweet-alert": "^2.1.0",
+    "react-native-text-input-mask": "^1.0.6",
+    "react-navigation": "^2.12.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/runtime": "^7.9.2",
+    "@react-native-community/eslint-config": "^1.0.0",
+    "babel-jest": "^25.2.6",
+    "eslint": "^6.8.0",
+    "jest": "^25.2.7",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
